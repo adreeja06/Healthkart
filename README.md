@@ -6,6 +6,9 @@ This project is an open-source dashboard built with Python and Streamlit to anal
 
 The dashboard provides a comprehensive view of campaign performance by ingesting and processing data related to influencers, posts, sales, and payouts. It allows marketing managers to make data-driven decisions by visualizing key metrics and uncovering actionable insights.
 
+Working demo available at : https://youtu.be/wFrAYCzVRf8
+
+
 ## 📝 Key Assumptions
 
 A crucial part of this analysis is the calculation of **Incremental ROAS**. The following assumption was made to estimate the true impact of the influencer campaigns:
@@ -57,3 +60,4 @@ A crucial part of this analysis is the calculation of **Incremental ROAS**. The 
     -   **Data Explorer:** A complete, sortable dataset.
 -   **Automated Reporting:** Generate a comprehensive PDF report with key metrics, charts, and data tables.
 -   **Data Export:** Download the filtered dataset as a CSV file.
+
