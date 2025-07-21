@@ -6,9 +6,23 @@ This project is an open-source dashboard built with Python and Streamlit to anal
 
 The dashboard provides a comprehensive view of campaign performance by ingesting and processing data related to influencers, posts, sales, and payouts. It allows marketing managers to make data-driven decisions by visualizing key metrics and uncovering actionable insights.
 
-Working demo available at : https://youtu.be/wFrAYCzVRf8
-Deployment Link : https://adreeja06-healthkart-app-izvayg.streamlit.app/
+**Working demo available at:** [https://adreeja06-healthkart-app-izvayg.streamlit.app/](https://adreeja06-healthkart-app-izvayg.streamlit.app/)
 
+## 📸 Dashboard Preview
+
+Here is a preview of the dashboard's features:
+
+**Overview Tab:**
+*Displays high-level KPIs and analyzes influencer personas and platform performance.*
+![Overview Tab](assets/image_654a45.jpg)
+
+**Influencer Deep Dive Tab:**
+*Identifies top-performing and underperforming influencers.*
+![Influencer Deep Dive](assets/image_65475a.jpg)
+
+**Temporal Analysis Tab:**
+*Tracks weekly revenue trends over the course of the campaign.*
+![Temporal Analysis](assets/image_654703.jpg)
 
 ## 📝 Key Assumptions
 
@@ -20,8 +34,8 @@ A crucial part of this analysis is the calculation of **Incremental ROAS**. The 
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/adreeja06/Healthkart
-    cd <your-project-folder>
+    git clone [https://github.com/adreeja06/Healthkart](https://github.com/adreeja06/Healthkart)
+    cd Healthkart
     ```
 
 2.  **Set up Environment & Install Dependencies:**
@@ -33,7 +47,6 @@ A crucial part of this analysis is the calculation of **Incremental ROAS**. The 
     # Install required packages
     pip install -r requirements.txt
     ```
-    *(Note: The `requirements.txt` file should be created by running `pip freeze > requirements.txt` after installing the necessary libraries.)*
 
 3.  **Generate Sample Data:**
     Run the data generation script once to create the necessary CSV files.
@@ -61,4 +74,3 @@ A crucial part of this analysis is the calculation of **Incremental ROAS**. The 
     -   **Data Explorer:** A complete, sortable dataset.
 -   **Automated Reporting:** Generate a comprehensive PDF report with key metrics, charts, and data tables.
 -   **Data Export:** Download the filtered dataset as a CSV file.
-
