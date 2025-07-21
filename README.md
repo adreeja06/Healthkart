@@ -8,21 +8,23 @@ The dashboard provides a comprehensive view of campaign performance by ingesting
 
 **Working demo available at:** [https://adreeja06-healthkart-app-izvayg.streamlit.app/](https://adreeja06-healthkart-app-izvayg.streamlit.app/)
 
+Video Link: https://www.youtube.com/watch?v=wFrAYCzVRf8
 ## 📸 Dashboard Preview
 
 Here is a preview of the dashboard's features:
 
 **Overview Tab:**
 *Displays high-level KPIs and analyzes influencer personas and platform performance.*
-![Overview Tab](assets/image_654a45.jpg)
+![Overview Tab](assets/overview.png)
 
 **Influencer Deep Dive Tab:**
 *Identifies top-performing and underperforming influencers.*
-![Influencer Deep Dive](assets/image_65475a.jpg)
+![Influencer Deep Dive](assets/deep-dive.png)
 
 **Temporal Analysis Tab:**
 *Tracks weekly revenue trends over the course of the campaign.*
-![Temporal Analysis](assets/image_654703.jpg)
+![Temporal Analysis](assets/temporal.png)
+
 
 ## 📝 Key Assumptions
 
