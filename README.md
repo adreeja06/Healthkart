@@ -7,6 +7,7 @@ This project is an open-source dashboard built with Python and Streamlit to anal
 The dashboard provides a comprehensive view of campaign performance by ingesting and processing data related to influencers, posts, sales, and payouts. It allows marketing managers to make data-driven decisions by visualizing key metrics and uncovering actionable insights.
 
 Working demo available at : https://youtu.be/wFrAYCzVRf8
+Deployment Link : https://adreeja06-healthkart-app-izvayg.streamlit.app/
 
 
 ## 📝 Key Assumptions
